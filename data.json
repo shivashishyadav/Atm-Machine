@@ -1,0 +1,45 @@
+{
+    "total_cash": 1000000,
+    "accounts": [
+        {
+            "pin": 1234,
+            "balance": 900.0
+        },
+        {
+            "pin": 1235,
+            "balance": 1900.0
+        },
+        {
+            "pin": 1236,
+            "balance": 3000
+        },
+        {
+            "pin": 1237,
+            "balance": 4000
+        },
+        {
+            "pin": 1238,
+            "balance": 5000
+        },
+        {
+            "pin": 1239,
+            "balance": 6000
+        },
+        {
+            "pin": 1230,
+            "balance": 7000
+        },
+        {
+            "pin": 1244,
+            "balance": 8000
+        },
+        {
+            "pin": 1423,
+            "balance": 1000
+        },
+        {
+            "pin": 1424,
+            "balance": 1000
+        }
+    ]
+}

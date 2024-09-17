@@ -1,0 +1,35 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.venv/
+venv.bak/
+venv.bak/
+
+# Environment variables
+.env
+*.env
+
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+
+# Windows specific
+Thumbs.db
+Desktop.ini
