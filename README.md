@@ -40,5 +40,5 @@ Below are previews of the images used in the project:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/shivashishyadav/Atm-Machine.git
    cd your-repository
